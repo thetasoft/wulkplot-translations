@@ -1,5 +1,5 @@
 # wulkplot-translations
-This repo serves as a submodule for the [wulkplot]() repo. All translation metadata as well as compiled translations (see [releases](https://github.com/thetasoft/wulkplot-translations/releases)) are stored here to keep things nice and separated (avoiding a bunch of noise in the main repo).
+This repo serves as a submodule for the [wulkplot](https://github.com/thetasoft/wulkplot) repo. All translation metadata as well as compiled translations (see [releases](https://github.com/thetasoft/wulkplot-translations/releases)) are stored here to keep things nice and separated (avoiding a bunch of noise in the main repo).
 
 ## A note on versioning
 The translation repository has its own versioning system that is fully independent of Wulkplot's versioning. This means that for any version of Wulkplot, several compiled translation versions may or may not be compatible. In practice, the versioning system for translations works as follows:
