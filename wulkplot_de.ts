@@ -113,6 +113,11 @@
         <translation>Es wurden keine Spalten ausgewählt</translation>
     </message>
     <message>
+        <location filename="../src/wulkplot/gui.py" line="234"/>
+        <source>all</source>
+        <translation>alle</translation>
+    </message>
+    <message>
         <location filename="../src/wulkplot/gui.py" line="293"/>
         <source>builtin</source>
         <translation>verbaut</translation>

@@ -113,6 +113,11 @@
       <translation type="unfinished" />
     </message>
     <message>
+      <location filename="..\src\wulkplot\gui.py" line="234" />
+      <source>all</source>
+      <translation type="unfinished" />
+    </message>
+    <message>
       <location filename="..\src\wulkplot\gui.py" line="293" />
       <source>builtin</source>
       <translation type="unfinished" />
