@@ -22,12 +22,12 @@
 <context>
     <name>ConsoleWindow</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="22"/>
+        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="21"/>
         <source>Console</source>
         <translation>Konsoll</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="31"/>
+        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="30"/>
         <source>clear</source>
         <translation>tøm</translation>
     </message>
@@ -110,6 +110,16 @@
         <translation>Handling</translation>
     </message>
     <message>
+        <location filename="../src/wulkplot/gui.py" line="579"/>
+        <location filename="../src/wulkplot/gui.py" line="473"/>
+        <location filename="../src/wulkplot/gui.py" line="430"/>
+        <location filename="../src/wulkplot/gui.py" line="384"/>
+        <location filename="../src/wulkplot/gui.py" line="358"/>
+        <location filename="../src/wulkplot/gui.py" line="235"/>
+        <source>Error</source>
+        <translation>Feil</translation>
+    </message>
+    <message>
         <location filename="../src/wulkplot/gui.py" line="235"/>
         <source>Failed to read CSV file:</source>
         <translation>Klarte ikke å lese den CSV-filen:</translation>
@@ -130,27 +140,37 @@
         <translation>Ingen skript valgt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="380"/>
+        <location filename="../src/wulkplot/gui.py" line="384"/>
         <source>No data files selected</source>
         <translation>Ingen datafiler valgt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="422"/>
+        <location filename="../src/wulkplot/gui.py" line="391"/>
+        <source>Info</source>
+        <translation>Informasjon</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/gui.py" line="391"/>
+        <source>You are seeing this message because you have selected data files while trying to run a script that doesn&apos;t require any data files. The selected data files will be ignored.</source>
+        <translation>Du ser denne meldingen fordi du har valgt datafiler mens du prøvde å kjøre et skript som ikke krever noen datafiler. De valgte datafilene vil bli ignorert.</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/gui.py" line="430"/>
         <source>Failed to start script:</source>
         <translation>Klarte ikke å starte skriptet:</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="443"/>
+        <location filename="../src/wulkplot/gui.py" line="451"/>
         <source>Kill</source>
         <translation>Avslutt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="465"/>
+        <location filename="../src/wulkplot/gui.py" line="473"/>
         <source>Failed to kill process:</source>
         <translation>Klarte ikke å avslutte prosessen:</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="571"/>
+        <location filename="../src/wulkplot/gui.py" line="579"/>
         <source>Failed to load script:</source>
         <translation>Klarte ikke å laste inn skriptet:</translation>
     </message>

@@ -22,13 +22,13 @@
 <context>
     <name>ConsoleWindow</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="22"/>
+        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="21"/>
         <source>Console</source>
         <translatorcomment>Konsole</translatorcomment>
         <translation>Konsole</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="31"/>
+        <location filename="../src/wulkplot/util_qt/__advanced/console_window.py" line="30"/>
         <source>clear</source>
         <translatorcomment>leeren</translatorcomment>
         <translation></translation>
@@ -113,6 +113,16 @@
         <translation>Aktion</translation>
     </message>
     <message>
+        <location filename="../src/wulkplot/gui.py" line="579"/>
+        <location filename="../src/wulkplot/gui.py" line="473"/>
+        <location filename="../src/wulkplot/gui.py" line="430"/>
+        <location filename="../src/wulkplot/gui.py" line="384"/>
+        <location filename="../src/wulkplot/gui.py" line="358"/>
+        <location filename="../src/wulkplot/gui.py" line="235"/>
+        <source>Error</source>
+        <translation>Fehlermeldung</translation>
+    </message>
+    <message>
         <location filename="../src/wulkplot/gui.py" line="235"/>
         <source>Failed to read CSV file:</source>
         <translation>Fehler beim laden der CSV Datei:</translation>
@@ -133,27 +143,37 @@
         <translation>Es ist kein Skript ausgewählt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="380"/>
+        <location filename="../src/wulkplot/gui.py" line="384"/>
         <source>No data files selected</source>
         <translation>Es ist sind keine Daten ausgewählt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="422"/>
+        <location filename="../src/wulkplot/gui.py" line="391"/>
+        <source>Info</source>
+        <translation>Info</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/gui.py" line="391"/>
+        <source>You are seeing this message because you have selected data files while trying to run a script that doesn&apos;t require any data files. The selected data files will be ignored.</source>
+        <translation>Du siehst diese Meldung, weil du Daten ausgewählt hast, während du versucht hast, ein Skript auszuführen, das keine Daten benötigt. Die ausgewählten Daten werden im folgenden ignoriert.</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/gui.py" line="430"/>
         <source>Failed to start script:</source>
         <translation>Fehler beim ausführen des Skriptes:</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="443"/>
+        <location filename="../src/wulkplot/gui.py" line="451"/>
         <source>Kill</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="465"/>
+        <location filename="../src/wulkplot/gui.py" line="473"/>
         <source>Failed to kill process:</source>
         <translation>Das Beenden des Prozesses ist fehlgeschlagen:</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="571"/>
+        <location filename="../src/wulkplot/gui.py" line="579"/>
         <source>Failed to load script:</source>
         <translation>Es ist ein Fehler beim laden des Skriptes aufgetreten:</translation>
     </message>

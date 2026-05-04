@@ -22,12 +22,12 @@
   <context>
     <name>ConsoleWindow</name>
     <message>
-      <location filename="..\src\wulkplot\util_qt\__advanced\console_window.py" line="22" />
+      <location filename="..\src\wulkplot\util_qt\__advanced\console_window.py" line="21" />
       <source>Console</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\util_qt\__advanced\console_window.py" line="31" />
+      <location filename="..\src\wulkplot\util_qt\__advanced\console_window.py" line="30" />
       <source>clear</source>
       <translation type="unfinished" />
     </message>
@@ -98,6 +98,16 @@
       <translation type="unfinished" />
     </message>
     <message>
+      <location filename="..\src\wulkplot\gui.py" line="579" />
+      <location filename="..\src\wulkplot\gui.py" line="473" />
+      <location filename="..\src\wulkplot\gui.py" line="430" />
+      <location filename="..\src\wulkplot\gui.py" line="384" />
+      <location filename="..\src\wulkplot\gui.py" line="358" />
+      <location filename="..\src\wulkplot\gui.py" line="235" />
+      <source>Error</source>
+      <translation type="unfinished" />
+    </message>
+    <message>
       <location filename="..\src\wulkplot\gui.py" line="235" />
       <source>Failed to read CSV file:</source>
       <translation type="unfinished" />
@@ -118,27 +128,37 @@
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\gui.py" line="380" />
+      <location filename="..\src\wulkplot\gui.py" line="384" />
       <source>No data files selected</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\gui.py" line="422" />
+      <location filename="..\src\wulkplot\gui.py" line="391" />
+      <source>Info</source>
+      <translation type="unfinished" />
+    </message>
+    <message>
+      <location filename="..\src\wulkplot\gui.py" line="391" />
+      <source>You are seeing this message because you have selected data files while trying to run a script that doesn't require any data files. The selected data files will be ignored.</source>
+      <translation type="unfinished" />
+    </message>
+    <message>
+      <location filename="..\src\wulkplot\gui.py" line="430" />
       <source>Failed to start script:</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\gui.py" line="443" />
+      <location filename="..\src\wulkplot\gui.py" line="451" />
       <source>Kill</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\gui.py" line="465" />
+      <location filename="..\src\wulkplot\gui.py" line="473" />
       <source>Failed to kill process:</source>
       <translation type="unfinished" />
     </message>
     <message>
-      <location filename="..\src\wulkplot\gui.py" line="571" />
+      <location filename="..\src\wulkplot\gui.py" line="579" />
       <source>Failed to load script:</source>
       <translation type="unfinished" />
     </message>
