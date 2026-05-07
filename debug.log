@@ -1,0 +1,410 @@
+[2026-05-04 18:39:57] [INFO] [14640:main.py] - Beginning app bootstrap.
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:39:59] [INFO] [14640:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:39:59] [INFO] [14640:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:39:59] [INFO] [14640:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:39:59] [INFO] [14640:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:40:00] [INFO] [14640:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:40:00] [INFO] [14640:main.py] - App bootstrap successful.
+[2026-05-04 18:42:38] [INFO] [6468:main.py] - Beginning app bootstrap.
+[2026-05-04 18:42:39] [INFO] [6468:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:42:39] [INFO] [6468:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:42:39] [INFO] [6468:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:42:39] [INFO] [6468:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:42:39] [INFO] [6468:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:42:39] [INFO] [6468:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:42:40] [INFO] [6468:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:42:40] [INFO] [6468:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:42:40] [INFO] [6468:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:42:41] [INFO] [6468:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:42:41] [INFO] [6468:main.py] - App bootstrap successful.
+[2026-05-04 18:44:13] [INFO] [29968:main.py] - Beginning app bootstrap.
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:44:14] [INFO] [29968:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:44:14] [INFO] [29968:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:44:14] [INFO] [29968:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:44:14] [INFO] [29968:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:44:15] [INFO] [29968:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:44:15] [INFO] [29968:main.py] - App bootstrap successful.
+[2026-05-04 18:44:23] [INFO] [29476:main.py] - Beginning app bootstrap.
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:44:25] [INFO] [29476:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:44:25] [INFO] [29476:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:44:25] [INFO] [29476:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:44:25] [INFO] [29476:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:44:26] [INFO] [29476:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:44:26] [INFO] [29476:main.py] - App bootstrap successful.
+[2026-05-04 18:46:12] [INFO] [30536:main.py] - Beginning app bootstrap.
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:46:13] [INFO] [30536:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:46:13] [INFO] [30536:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:46:13] [INFO] [30536:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:46:13] [INFO] [30536:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:46:14] [INFO] [30536:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:46:14] [INFO] [30536:main.py] - App bootstrap successful.
+[2026-05-04 18:46:44] [INFO] [29424:main.py] - Beginning app bootstrap.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:46:46] [INFO] [29424:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:46:46] [INFO] [29424:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:46:46] [INFO] [29424:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:46:46] [INFO] [29424:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:46:46] [INFO] [29424:main.py] - App bootstrap successful.
+[2026-05-04 18:47:09] [INFO] [5128:main.py] - Beginning app bootstrap.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:47:10] [INFO] [5128:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:47:10] [INFO] [5128:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:47:10] [INFO] [5128:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:47:10] [INFO] [5128:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:47:10] [INFO] [5128:main.py] - App bootstrap successful.
+[2026-05-04 18:47:59] [INFO] [14992:main.py] - Beginning app bootstrap.
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:48:01] [INFO] [14992:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:48:01] [INFO] [14992:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:48:01] [INFO] [14992:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:48:01] [INFO] [14992:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:48:02] [INFO] [14992:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:48:02] [INFO] [14992:main.py] - App bootstrap successful.
+[2026-05-04 18:49:00] [INFO] [5940:main.py] - Beginning app bootstrap.
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:49:01] [INFO] [5940:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:49:01] [INFO] [5940:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:49:01] [INFO] [5940:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:49:01] [INFO] [5940:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:49:02] [INFO] [5940:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:49:02] [INFO] [5940:main.py] - App bootstrap successful.
+[2026-05-04 18:51:09] [INFO] [9092:main.py] - Beginning app bootstrap.
+[2026-05-04 18:51:10] [INFO] [9092:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:51:10] [INFO] [9092:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:51:10] [INFO] [9092:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:51:10] [INFO] [9092:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:51:10] [INFO] [9092:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:51:10] [INFO] [9092:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:51:11] [INFO] [9092:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:51:11] [INFO] [9092:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:51:11] [INFO] [9092:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:51:12] [INFO] [9092:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:51:12] [INFO] [9092:main.py] - App bootstrap successful.
+[2026-05-04 18:51:27] [INFO] [30132:main.py] - Beginning app bootstrap.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:51:29] [INFO] [30132:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:51:29] [INFO] [30132:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:51:29] [INFO] [30132:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:51:29] [INFO] [30132:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:51:29] [INFO] [30132:main.py] - App bootstrap successful.
+[2026-05-04 18:51:33] [INFO] [29656:main.py] - Beginning app bootstrap.
+[2026-05-04 18:51:34] [INFO] [29656:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:51:34] [INFO] [29656:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:51:34] [INFO] [29656:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:51:34] [INFO] [29656:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:51:34] [INFO] [29656:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:51:34] [INFO] [29656:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:51:35] [INFO] [29656:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:51:35] [INFO] [29656:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:51:35] [INFO] [29656:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:51:35] [INFO] [29656:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:51:35] [INFO] [29656:main.py] - App bootstrap successful.
+[2026-05-04 18:54:38] [INFO] [29972:main.py] - Beginning app bootstrap.
+[2026-05-04 18:54:39] [INFO] [29972:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:54:39] [INFO] [29972:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:54:39] [INFO] [29972:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:54:39] [INFO] [29972:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:54:39] [INFO] [29972:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:54:39] [INFO] [29972:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:54:40] [INFO] [29972:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:54:40] [INFO] [29972:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:54:40] [INFO] [29972:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:54:42] [INFO] [29972:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:54:42] [INFO] [29972:main.py] - App bootstrap successful.
+[2026-05-04 18:54:49] [INFO] [30216:main.py] - Beginning app bootstrap.
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:54:50] [INFO] [30216:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:54:50] [INFO] [30216:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:54:50] [INFO] [30216:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:54:50] [INFO] [30216:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:54:51] [INFO] [30216:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:54:51] [INFO] [30216:main.py] - App bootstrap successful.
+[2026-05-04 18:59:49] [INFO] [28800:main.py] - Beginning app bootstrap.
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 18:59:50] [INFO] [28800:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 18:59:50] [INFO] [28800:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 18:59:50] [INFO] [28800:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 18:59:50] [INFO] [28800:translations.py] - Loading translations for 'no'.
+[2026-05-04 18:59:51] [INFO] [28800:translations.py] - Translation for 'no' is current.
+[2026-05-04 18:59:51] [INFO] [28800:main.py] - App bootstrap successful.
+[2026-05-04 18:59:59] [INFO] [28800:main.py] - Received interrupt signal, shutting down...
+[2026-05-04 19:00:13] [INFO] [4568:main.py] - Beginning app bootstrap.
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:00:15] [INFO] [4568:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:00:15] [INFO] [4568:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:00:15] [INFO] [4568:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:00:15] [INFO] [4568:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:00:16] [INFO] [4568:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:00:16] [INFO] [4568:main.py] - App bootstrap successful.
+[2026-05-04 19:00:21] [INFO] [29008:main.py] - Beginning app bootstrap.
+[2026-05-04 19:00:22] [INFO] [29008:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:00:22] [INFO] [29008:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:00:22] [INFO] [29008:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:00:22] [INFO] [29008:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:00:22] [INFO] [29008:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:00:22] [INFO] [29008:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:00:23] [INFO] [29008:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:00:23] [INFO] [29008:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:00:23] [INFO] [29008:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:00:23] [INFO] [29008:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:00:23] [INFO] [29008:main.py] - App bootstrap successful.
+[2026-05-04 19:00:29] [INFO] [476:main.py] - Beginning app bootstrap.
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:00:30] [INFO] [476:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:00:30] [INFO] [476:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:00:30] [INFO] [476:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:00:30] [INFO] [476:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:00:31] [INFO] [476:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:00:31] [INFO] [476:main.py] - App bootstrap successful.
+[2026-05-04 19:00:35] [INFO] [10144:main.py] - Beginning app bootstrap.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:00:37] [INFO] [10144:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:00:37] [INFO] [10144:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:00:37] [INFO] [10144:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:00:37] [INFO] [10144:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:00:37] [INFO] [10144:main.py] - App bootstrap successful.
+[2026-05-04 19:00:41] [INFO] [23976:main.py] - Beginning app bootstrap.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:00:43] [INFO] [23976:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:00:43] [INFO] [23976:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:00:43] [INFO] [23976:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:00:43] [INFO] [23976:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:00:43] [INFO] [23976:main.py] - App bootstrap successful.
+[2026-05-04 19:01:07] [INFO] [17256:main.py] - Beginning app bootstrap.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:01:09] [INFO] [17256:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:01:09] [INFO] [17256:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:01:09] [INFO] [17256:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:01:09] [INFO] [17256:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:01:09] [INFO] [17256:main.py] - App bootstrap successful.
+[2026-05-04 19:01:14] [INFO] [6048:main.py] - Beginning app bootstrap.
+[2026-05-04 19:01:15] [INFO] [6048:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:01:15] [INFO] [6048:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:01:15] [INFO] [6048:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:01:15] [INFO] [6048:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:01:15] [INFO] [6048:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:01:15] [INFO] [6048:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:01:16] [INFO] [6048:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:01:16] [INFO] [6048:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:01:16] [INFO] [6048:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:01:16] [INFO] [6048:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:01:16] [INFO] [6048:main.py] - App bootstrap successful.
+[2026-05-04 19:01:47] [INFO] [28208:main.py] - Beginning app bootstrap.
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:01:49] [INFO] [28208:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:01:49] [INFO] [28208:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:01:49] [INFO] [28208:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:01:49] [INFO] [28208:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:01:50] [INFO] [28208:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:01:50] [INFO] [28208:main.py] - App bootstrap successful.
+[2026-05-04 19:02:03] [INFO] [16724:main.py] - Beginning app bootstrap.
+[2026-05-04 19:02:04] [INFO] [16724:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:02:04] [INFO] [16724:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:02:04] [INFO] [16724:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:02:04] [INFO] [16724:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:02:04] [INFO] [16724:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:02:04] [INFO] [16724:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:02:05] [INFO] [16724:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:02:05] [INFO] [16724:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:02:05] [INFO] [16724:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:02:05] [INFO] [16724:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:02:05] [INFO] [16724:main.py] - App bootstrap successful.
+[2026-05-04 19:02:11] [INFO] [5604:main.py] - Beginning app bootstrap.
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:02:12] [INFO] [5604:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:02:12] [INFO] [5604:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:02:12] [INFO] [5604:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:02:12] [INFO] [5604:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:02:13] [INFO] [5604:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:02:13] [INFO] [5604:main.py] - App bootstrap successful.
+[2026-05-04 19:02:17] [INFO] [17816:main.py] - Beginning app bootstrap.
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:02:19] [INFO] [17816:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:02:19] [INFO] [17816:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:02:19] [INFO] [17816:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:02:19] [INFO] [17816:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:02:20] [INFO] [17816:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:02:20] [INFO] [17816:main.py] - App bootstrap successful.
+[2026-05-04 19:02:26] [INFO] [14692:main.py] - Beginning app bootstrap.
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:02:28] [INFO] [14692:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:02:28] [INFO] [14692:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:02:28] [INFO] [14692:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:02:28] [INFO] [14692:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:02:29] [INFO] [14692:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:02:29] [INFO] [14692:main.py] - App bootstrap successful.
+[2026-05-04 19:02:34] [INFO] [448:main.py] - Beginning app bootstrap.
+[2026-05-04 19:02:35] [INFO] [448:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:02:35] [INFO] [448:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:02:35] [INFO] [448:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:02:35] [INFO] [448:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:02:35] [INFO] [448:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:02:35] [INFO] [448:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:02:36] [INFO] [448:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:02:36] [INFO] [448:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:02:36] [INFO] [448:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:02:36] [INFO] [448:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:02:36] [INFO] [448:main.py] - App bootstrap successful.
+[2026-05-04 19:04:40] [INFO] [29048:main.py] - Beginning app bootstrap.
+[2026-05-04 19:04:41] [INFO] [29048:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:04:41] [INFO] [29048:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:04:41] [INFO] [29048:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:04:41] [INFO] [29048:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:04:42] [INFO] [29048:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:04:42] [INFO] [29048:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:04:42] [INFO] [29048:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:04:42] [INFO] [29048:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:04:42] [INFO] [29048:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:04:43] [INFO] [29048:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:04:43] [INFO] [29048:main.py] - App bootstrap successful.
+[2026-05-04 19:04:50] [INFO] [31220:main.py] - Beginning app bootstrap.
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:04:52] [INFO] [31220:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:04:52] [INFO] [31220:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:04:52] [INFO] [31220:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:04:52] [INFO] [31220:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:04:53] [INFO] [31220:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:04:53] [INFO] [31220:main.py] - App bootstrap successful.
+[2026-05-04 19:05:30] [INFO] [30072:main.py] - Beginning app bootstrap.
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:05:32] [INFO] [30072:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:05:32] [INFO] [30072:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:05:32] [INFO] [30072:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:05:32] [INFO] [30072:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:05:33] [INFO] [30072:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:05:33] [INFO] [30072:main.py] - App bootstrap successful.
+[2026-05-04 19:05:38] [INFO] [19648:main.py] - Beginning app bootstrap.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:05:40] [INFO] [19648:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:05:40] [INFO] [19648:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:05:40] [INFO] [19648:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:05:40] [INFO] [19648:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:05:40] [INFO] [19648:main.py] - App bootstrap successful.
+[2026-05-04 19:10:02] [INFO] [19648:main.py] - Received interrupt signal, shutting down...
+[2026-05-04 19:10:05] [INFO] [30996:main.py] - Beginning app bootstrap.
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:10:07] [INFO] [30996:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:10:07] [INFO] [30996:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:10:07] [INFO] [30996:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:10:07] [INFO] [30996:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:10:08] [INFO] [30996:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:10:08] [INFO] [30996:main.py] - App bootstrap successful.
+[2026-05-04 19:10:38] [INFO] [11824:main.py] - Beginning app bootstrap.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Version: 1edc70192a6cc2c597f7702a783c60410d4c8dd3 (up to date).
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Be advised that this installation of Wulkplot has local changes.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Bootstrapping module: 'directories'.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Bootstrapping module: 'context'.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Bootstrapping module: 'latex'.
+[2026-05-04 19:10:39] [INFO] [11824:latex.py] - Attempting to resolve user defined LaTeX engine.
+[2026-05-04 19:10:39] [INFO] [11824:latex.py] - LaTeX engine resolved: 'C:\Users\Alyner\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe'.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - Bootstrapping module: 'translations'.
+[2026-05-04 19:10:39] [INFO] [11824:translations.py] - Loading translations for 'no'.
+[2026-05-04 19:10:39] [INFO] [11824:translations.py] - Translation for 'no' is current.
+[2026-05-04 19:10:39] [INFO] [11824:main.py] - App bootstrap successful.
