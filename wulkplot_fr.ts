@@ -4,33 +4,23 @@
 <context>
     <name>ColumnSelectionDialog</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/column_selection_dialog.py" line="19"/>
         <source>Select columns</source>
-        <translation>Colonnes sélectionnées</translation>
+        <translation type="vanished">Colonnes sélectionnées</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/column_selection_dialog.py" line="29"/>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation type="vanished">Ajouter</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/column_selection_dialog.py" line="30"/>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
 </context>
 <context>
     <name>ConsoleWindow</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/windows/console_window.py" line="25"/>
         <source>Console</source>
-        <translation>Console</translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/util_qt/windows/console_window.py" line="34"/>
-        <source>clear</source>
-        <translatorcomment>effacer</translatorcomment>
-        <translation></translation>
+        <translation type="vanished">Console</translation>
     </message>
     <message>
         <source>Time</source>
@@ -48,25 +38,16 @@
 <context>
     <name>DataFileSelectionDialog</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/data_file_selection_dialog.py" line="40"/>
         <source>Add data files</source>
-        <translation>Ajouter des fichiers de données</translation>
+        <translation type="vanished">Ajouter des fichiers de données</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/data_file_selection_dialog.py" line="51"/>
-        <source>Include header</source>
-        <translatorcomment>inclure l&apos;en-tête de colonne</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/data_file_selection_dialog.py" line="53"/>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation type="vanished">Ajouter</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/data_file_selection_dialog.py" line="54"/>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
     <message>
         <source>Files</source>
@@ -76,67 +57,66 @@
 <context>
     <name>ExperimentGUI</name>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="81"/>
+        <location filename="../src/wulkplot/gui.py" line="78"/>
         <source>Add files</source>
         <translation>Ajouter des données</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="85"/>
+        <location filename="../src/wulkplot/gui.py" line="82"/>
         <source>Run script</source>
         <translation>Exécuter</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="91"/>
-        <source>Script parameters</source>
-        <translation>Paramètres du script</translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/gui.py" line="367"/>
-        <location filename="../src/wulkplot/gui.py" line="321"/>
-        <location filename="../src/wulkplot/gui.py" line="294"/>
-        <location filename="../src/wulkplot/gui.py" line="214"/>
+        <location filename="../src/wulkplot/gui.py" line="351"/>
+        <location filename="../src/wulkplot/gui.py" line="305"/>
+        <location filename="../src/wulkplot/gui.py" line="278"/>
+        <location filename="../src/wulkplot/gui.py" line="198"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="214"/>
+        <location filename="../src/wulkplot/gui.py" line="198"/>
         <source>Failed to read CSV file:</source>
         <translation>Échec de la lecture du fichier CSV :</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="224"/>
+        <location filename="../src/wulkplot/gui.py" line="208"/>
         <source>No columns selected</source>
         <translation>Aucune colonne sélectionnée</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="228"/>
+        <location filename="../src/wulkplot/gui.py" line="212"/>
         <source>all</source>
         <translation>tous</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="294"/>
+        <location filename="../src/wulkplot/gui.py" line="278"/>
         <source>No script selected</source>
         <translation>Aucun script sélectionné</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="321"/>
+        <location filename="../src/wulkplot/gui.py" line="305"/>
         <source>No data files selected</source>
         <translation>Aucun fichier de données sélectionné</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="328"/>
+        <location filename="../src/wulkplot/gui.py" line="312"/>
         <source>Info</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="328"/>
+        <location filename="../src/wulkplot/gui.py" line="312"/>
         <source>You are seeing this message because you have selected data files while trying to run a script that doesn&apos;t require any data files. The selected data files will be ignored.</source>
         <translation>Vous voyez ce message parce que vous avez sélectionné des fichiers de données en essayant d’exécuter un script qui ne nécessite aucun fichier de données. Les fichiers de données sélectionnés seront ignorés.</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="367"/>
+        <location filename="../src/wulkplot/gui.py" line="351"/>
         <source>Failed to start script:</source>
         <translation>Échec du démarrage du script :</translation>
+    </message>
+    <message>
+        <source>Script parameters</source>
+        <translation type="vanished">Paramètres du script</translation>
     </message>
     <message>
         <source>Scripts</source>
@@ -174,67 +154,55 @@
 <context>
     <name>FileList</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="26"/>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="vanished">Fichier</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="26"/>
         <source>Columns</source>
-        <translation>Colonnes</translation>
+        <translation type="vanished">Colonnes</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="26"/>
         <source>Header</source>
-        <translation>l&apos;en-tête</translation>
+        <translation type="vanished">l&apos;en-tête</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="26"/>
         <source>Actions</source>
-        <translation>Actions</translation>
+        <translation type="vanished">Actions</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="50"/>
         <source>yes</source>
-        <translation>oui</translation>
+        <translation type="vanished">oui</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/file_list.py" line="50"/>
         <source>no</source>
-        <translation>non</translation>
+        <translation type="vanished">non</translation>
     </message>
 </context>
 <context>
     <name>ProcessList</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="26"/>
         <source>Script</source>
-        <translation>Script</translation>
+        <translation type="vanished">Script</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="26"/>
         <source>PID</source>
-        <translation>IDP</translation>
+        <translation type="vanished">IDP</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="26"/>
         <source>Action</source>
-        <translation>Action</translation>
+        <translation type="vanished">Action</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="48"/>
         <source>Kill</source>
-        <translation>Arrêter</translation>
+        <translation type="vanished">Arrêter</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="70"/>
         <source>Error</source>
-        <translation>Erreur</translation>
+        <translation type="vanished">Erreur</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/process_list.py" line="70"/>
         <source>Failed to kill process:</source>
-        <translation>Échec de l&apos;arrêt du processus :</translation>
+        <translation type="vanished">Échec de l&apos;arrêt du processus :</translation>
     </message>
 </context>
 <context>
@@ -262,6 +230,126 @@
     <message>
         <source>no</source>
         <translation type="vanished">non</translation>
+    </message>
+</context>
+<context>
+    <name>WulkColumnSelectionDialog</name>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkColumnSelectionDialog.py" line="19"/>
+        <source>Select columns</source>
+        <translation>Colonnes sélectionnées</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkColumnSelectionDialog.py" line="29"/>
+        <source>Add</source>
+        <translation>Ajouter</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkColumnSelectionDialog.py" line="30"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>WulkConsoleWindow</name>
+    <message>
+        <location filename="../src/wulkplot/util_qt/windows/WulkConsoleWindow.py" line="30"/>
+        <source>Console</source>
+        <translation>Console</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/windows/WulkConsoleWindow.py" line="98"/>
+        <source>clear</source>
+        <translation>vider</translation>
+    </message>
+</context>
+<context>
+    <name>WulkDataFileSelectionDialog</name>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="40"/>
+        <source>Add data files</source>
+        <translation>Ajouter des fichiers de données</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="51"/>
+        <source>Include header</source>
+        <translation>Inclure l&apos;en-tête</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="53"/>
+        <source>Add</source>
+        <translation>Ajouter</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="54"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>WulkFileList</name>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <source>File</source>
+        <translation>Fichier</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <source>Columns</source>
+        <translation>Colonnes</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <source>Header</source>
+        <translation>l&apos;en-tête</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <source>Actions</source>
+        <translation>Actions</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="54"/>
+        <source>yes</source>
+        <translation>oui</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="54"/>
+        <source>no</source>
+        <translation>non</translation>
+    </message>
+</context>
+<context>
+    <name>WulkProcessList</name>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="31"/>
+        <source>Script</source>
+        <translation>Script</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="31"/>
+        <source>PID</source>
+        <translation>IDP</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="31"/>
+        <source>Action</source>
+        <translation>Action</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="53"/>
+        <source>Kill</source>
+        <translation>Arrêter</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="85"/>
+        <source>Error</source>
+        <translation>Erreur</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkProcessList.py" line="85"/>
+        <source>Failed to kill process:</source>
+        <translation>Échec de l&apos;arrêt du processus :</translation>
     </message>
 </context>
 </TS>
