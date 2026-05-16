@@ -58,62 +58,58 @@
 <context>
     <name>ExperimentGUI</name>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="78"/>
+        <location filename="../src/wulkplot/gui.py" line="73"/>
         <source>Add files</source>
         <translation>Dateien hinzufügen</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="82"/>
+        <location filename="../src/wulkplot/gui.py" line="77"/>
         <source>Run script</source>
         <translation>Skript ausführen</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="351"/>
-        <location filename="../src/wulkplot/gui.py" line="305"/>
-        <location filename="../src/wulkplot/gui.py" line="278"/>
-        <location filename="../src/wulkplot/gui.py" line="198"/>
+        <location filename="../src/wulkplot/gui.py" line="302"/>
+        <location filename="../src/wulkplot/gui.py" line="256"/>
+        <location filename="../src/wulkplot/gui.py" line="229"/>
         <source>Error</source>
         <translation>Fehlermeldung</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="198"/>
-        <source>Failed to read CSV file:</source>
-        <translation>Fehler beim laden der CSV Datei:</translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/gui.py" line="208"/>
-        <source>No columns selected</source>
-        <translation>Es wurden keine Spalten ausgewählt</translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/gui.py" line="212"/>
-        <source>all</source>
-        <translation>alle</translation>
-    </message>
-    <message>
-        <location filename="../src/wulkplot/gui.py" line="278"/>
+        <location filename="../src/wulkplot/gui.py" line="229"/>
         <source>No script selected</source>
         <translation>Es ist kein Skript ausgewählt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="305"/>
+        <location filename="../src/wulkplot/gui.py" line="256"/>
         <source>No data files selected</source>
         <translation>Es ist sind keine Daten ausgewählt</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="312"/>
+        <location filename="../src/wulkplot/gui.py" line="263"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="312"/>
+        <location filename="../src/wulkplot/gui.py" line="263"/>
         <source>You are seeing this message because you have selected data files while trying to run a script that doesn&apos;t require any data files. The selected data files will be ignored.</source>
         <translation>Du siehst diese Meldung, weil du Daten ausgewählt hast, während du versucht hast, ein Skript auszuführen, das keine Daten benötigt. Die ausgewählten Daten werden im folgenden ignoriert.</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/gui.py" line="351"/>
+        <location filename="../src/wulkplot/gui.py" line="302"/>
         <source>Failed to start script:</source>
         <translation>Fehler beim ausführen des Skriptes:</translation>
+    </message>
+    <message>
+        <source>Failed to read CSV file:</source>
+        <translation type="vanished">Fehler beim laden der CSV Datei:</translation>
+    </message>
+    <message>
+        <source>No columns selected</source>
+        <translation type="vanished">Es wurden keine Spalten ausgewählt</translation>
+    </message>
+    <message>
+        <source>all</source>
+        <translation type="vanished">alle</translation>
     </message>
     <message>
         <source>Script parameters</source>
@@ -234,6 +230,16 @@
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="145"/>
+        <source>Warning</source>
+        <translation>Warnung</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="146"/>
+        <source>No columns selected</source>
+        <translation>Es wurden keine Spalten ausgewählt</translation>
+    </message>
 </context>
 <context>
     <name>WulkConsoleWindow</name>
@@ -251,55 +257,70 @@
 <context>
     <name>WulkDataFileSelectionDialog</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="40"/>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="50"/>
         <source>Add data files</source>
         <translation>Dateienwähler</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="51"/>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="61"/>
         <source>Include header</source>
         <translation>Header einschließen</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="53"/>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="63"/>
         <source>Add</source>
         <translation>Hinzufügen</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="54"/>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="64"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="132"/>
+        <source>Error</source>
+        <translation>Fehlermeldung</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/dialogs/WulkDataFileSelectionDialog.py" line="133"/>
+        <source>Failed to read CSV file: </source>
+        <translation>Fehler beim laden der CSV Datei: </translation>
     </message>
 </context>
 <context>
     <name>WulkFileList</name>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="31"/>
         <source>File</source>
         <translation>Datei</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="31"/>
         <source>Columns</source>
         <translation>Spalten</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="31"/>
         <source>Header</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="30"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="31"/>
         <source>Actions</source>
         <translation>Aktionen</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="54"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="63"/>
+        <source>all</source>
+        <translation>alle</translation>
+    </message>
+    <message>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="67"/>
         <source>yes</source>
         <translation>ja</translation>
     </message>
     <message>
-        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="54"/>
+        <location filename="../src/wulkplot/util_qt/widgets/WulkFileList.py" line="67"/>
         <source>no</source>
         <translation>nein</translation>
     </message>
